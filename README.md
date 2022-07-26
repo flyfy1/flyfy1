@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 #### 🔭 currently working on ...
-- personal blog: <https://flyfy1.github.io/>
-- diary taking web app: <https://www.diarier.com/>
-- music notebook (private repo)
+- personal blog: <https://songyangyu.com/>
+- work...
 
 #### 💬 Ask me about ...
 
